@@ -1,0 +1,45 @@
+/*
+p,
+li,
+h1 {
+  color: red;
+  width: 500px;
+  broder: 100px solid black;
+}
+*/
+
+/* h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+} */
+
+html {
+  background-color: #00539f;
+}
+
+body {
+  width: 600px; /*页面永远保持 600 像素宽*/
+  margin: 0 auto; /*上下；左右*/
+  background-color:#ff9500;
+  padding: 0 20px 30px 40px; /*上右下左*/
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
